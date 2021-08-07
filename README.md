@@ -4,17 +4,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbaazkyz" alt="shahbaazkyz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shahbaazkyz" target="blank"><img src="https://img.shields.io/twitter/follow/shahbaazkyz?logo=twitter&style=for-the-badge" alt="shahbaazkyz" /></a> 
-<p align="left"> <a href="https://www.linkedin.com/in/shahbaazkyz/" target="blank"><img src="https://img.shields.io/badge/Connect%20ON%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahbaazkyz" /></a> 
+<p align="left"> <a href="https://www.linkedin.com/in/shahbaazkyz/" target="blank"><img src="https://img.shields.io/badge/Connect%20ON%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahbaazkyz" /></a>
 
 [![WhatsaApp](https://img.shields.io/badge/click%20to%20contact%20on%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/+923092144374)](https://wa.me/+923092144374) </p>
-
-
 
 - 🔭 I’m currently working on **Hacker-Rank Challenges**
 
 - 🌱 I’m currently learning **DSA & Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [shahbaazkyz.netlify.app](shahbaazkyz.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio.shahbaazkyz.com](https://portfolio.shahbaazkyz.com/)
 
 - 💬 Ask me about **Java & Javascript**
 
