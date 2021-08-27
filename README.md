@@ -8,7 +8,7 @@
 
 [![WhatsaApp](https://img.shields.io/badge/click%20to%20contact%20on%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/+923092144374)](https://wa.me/+923092144374) </p>
 
-- 🔭 I’m currently working on **Hacker-Rank Challenges**
+- 🔭 I’m currently working on **LeetCode Problems**
 
 - 🌱 I’m currently learning **DSA & Full Stack Development**
 
